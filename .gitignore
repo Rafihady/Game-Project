@@ -1,0 +1,7 @@
+Library/*
+temp/*
+logs/*
+
+.vsconfig
+*.sln
+/Fluppy Bird/fluppy project/Fluppy bird/Library
