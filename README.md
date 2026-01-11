@@ -3,7 +3,7 @@
 
 # Upi Fluppy Bird
 
-Game sederhana untuk memulai proyek pertama yaitu Fluppy Bird. Menerapkan logic sederhana seperti pada game asli yang mana player tidak boleh jatuh terlalu bawah dan terlalu tinggi, player njuga harus memposisikan burung melewati pipa-pipa yang akan terus berjalan ke arah player.
+Game sederhana untuk memulai proyek pertama yaitu Fluppy Bird. Menerapkan logic sederhana seperti pada game asli yang mana player tidak boleh jatuh terlalu bawah dan terbang terlalu tinggi, player juga harus memposisikan burung melewati pipa-pipa yang akan terus berjalan ke arah player.
 
 <img width="490" height="946" alt="Screenshot (718)" src="https://github.com/user-attachments/assets/357444e8-8f13-494e-883b-23bbcc0425e8" />
 
